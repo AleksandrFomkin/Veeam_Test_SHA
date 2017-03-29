@@ -1,0 +1,9 @@
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\obj\Debug\SHA_Test.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\SHA_Test.dll
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\SHA_Test.pdb
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\Veeam_Test_SHA.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\Veeam_Test_SHA.pdb
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\obj\Debug\SHA_Test.dll
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\SHA_Test\obj\Debug\SHA_Test.pdb

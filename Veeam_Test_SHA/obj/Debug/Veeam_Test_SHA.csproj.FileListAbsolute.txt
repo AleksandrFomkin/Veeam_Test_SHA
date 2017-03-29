@@ -1,0 +1,6 @@
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\bin\Debug\Veeam_Test_SHA.exe.config
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\obj\Debug\Veeam_Test_SHA.csprojResolveAssemblyReference.cache
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\bin\Debug\Veeam_Test_SHA.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\bin\Debug\Veeam_Test_SHA.pdb
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\obj\Debug\Veeam_Test_SHA.exe
+c:\users\aleks\documents\visual studio 2015\Projects\Veeam_Test_SHA\Veeam_Test_SHA\obj\Debug\Veeam_Test_SHA.pdb
